@@ -1,0 +1,12 @@
+venv/
+env/
+.env
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.json
+.DS_Store
+Thumbs.db
+.vscode/
